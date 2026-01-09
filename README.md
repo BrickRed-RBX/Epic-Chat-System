@@ -4,5 +4,4 @@
 <p align="center">
   <img src="https://github.com/BrickRed-RBX/Epic-Chat-System/blob/main/ECSLogo.png?raw=true"/>
 </p>
-
-DEFINITELY NOT RELEATED TO TERRARIA, RIGHT? RIGHT???
+<center> ![](ECSLogo.png) </center>
