@@ -4,4 +4,4 @@
 <p align="center">
   <img src="https://github.com/BrickRed-RBX/Epic-Chat-System/blob/main/ECSLogo.png?raw=true"/>
 </p>
-<center>The Most Epicest Emoji System in all of Roblox</center>
+<p style="text-align:center">The Most Epicest Emoji System in all of Roblox</p>
