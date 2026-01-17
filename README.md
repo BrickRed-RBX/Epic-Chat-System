@@ -6,3 +6,6 @@
   <br><br>
   <b>The Most Epicest Chat System in all of Roblox</b>
 </p>
+
+Credits: 
+Pleading - Fartmiser (@temporarymonkey)
