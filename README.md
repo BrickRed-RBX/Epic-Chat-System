@@ -1,5 +1,5 @@
->[!NOTE]
->The system is currently in development, so little buggy that we need you to crate issues.
+>[!IMPORTANT]
+>The system is archived for now due to roblox updates.
 
 <p align="center">
   <img src="https://github.com/BrickRed-RBX/Epic-Chat-System/blob/main/ECSLogo.png?raw=true"/><br>
